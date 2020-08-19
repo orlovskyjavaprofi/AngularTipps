@@ -1,0 +1,24 @@
+ng new [project-name] --strict
+
+https://angular.io/guide/file-structure
+
+ng generate component xyz
+ng add @angular/material
+ng add @angular/pwa
+ng add name of module
+ng test
+ng build --prod
+
+npm install 
+ng serve --host=LocalIP here specify your local address
+==============See the versions===========================
+node -v
+npm -v
+
+ng serve
+ng update 
+npm install -g @angular/cli
+ng new my-dream-app
+
+ng test --code-coverage
+npx jest run   // test suite for jest
