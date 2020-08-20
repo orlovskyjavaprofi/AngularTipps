@@ -2,6 +2,8 @@ debug output for forms
 <p>Form value: {{ customForm.value | json }}</p>
   <p>Form status: {{ customForm.status | json }}</p>
   
+  npm install -g snyk
+snyk test
 
 ng new [project-name] --strict
 
